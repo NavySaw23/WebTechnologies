@@ -1,0 +1,8 @@
+h3{
+    color: green; /* text colors */
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* text fonts */
+    font-size:large; /* text sizes */
+    border: 2px solid lime; /* borders */
+    padding: 20px; /* space inside the border */
+    margin: 20px; /* space outside the border */
+}

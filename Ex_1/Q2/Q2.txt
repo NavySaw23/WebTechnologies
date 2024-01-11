@@ -1,0 +1,1 @@
+Q2. Design a webpage to show your timetable in proper format.
